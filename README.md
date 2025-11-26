@@ -91,27 +91,16 @@
 
 ---
 
-# 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=cobalt&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-1811&theme=cobalt&hide_border=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-# 🐍 **Contribution Snake**
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rushikesh-1811&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -122,7 +111,4 @@
 
 # 👀 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Rushikesh-1811&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
