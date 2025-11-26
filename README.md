@@ -124,40 +124,5 @@
 [![](https://visitcount.itsvg.in/api?id=Rushikesh-1811&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🚀 Skill Progress
-
-### 📘 Programming & ML
-| Skill | Progress |
-|-------|----------|
-| **Python** | ![](https://progress-bar.dev/90/?title=Expert&width=200) |
-| **Machine Learning** | ![](https://progress-bar.dev/75/?title=Intermediate&width=200) |
-| **Deep Learning** | ![](https://progress-bar.dev/60/?title=Learning&width=200) |
-| **Statistics & Probability** | ![](https://progress-bar.dev/80/?title=Strong&width=200) |
-
----
-
-### 📊 Data Analytics
-| Skill | Progress |
-|-------|----------|
-| **SQL** | ![](https://progress-bar.dev/85/?title=Advanced&width=200) |
-| **Power BI** | ![](https://progress-bar.dev/80/?title=Pro&width=200) |
-| **Data Cleaning & ETL** | ![](https://progress-bar.dev/90/?title=Expert&width=200) |
-
----
-
-### 🗄️ Databases
-| Skill | Progress |
-|-------|----------|
-| **MySQL** | ![](https://progress-bar.dev/85/?title=Strong&width=200) |
-| **MS SQL Server** | ![](https://progress-bar.dev/75/?title=Good&width=200) |
-
----
-
-### 🛠️ Tools & DevOps
-| Skill | Progress |
-|-------|----------|
-| **Git** | ![](https://progress-bar.dev/80/?title=Pro&width=200) |
-| **GitHub** | ![](https://progress-bar.dev/85/?title=Strong&width=200) |
-
 
 
