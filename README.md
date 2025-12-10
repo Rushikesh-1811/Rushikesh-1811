@@ -58,14 +58,6 @@
 
 ## 🚀 Featured Projects
 
-### 🎵 **Music Store Management – SQL**
-<p align="left">
-  <a href="REPO_LINK">
-    <img src="PROJECT_IMAGE_LINK" width="350" />
-  </a>
-</p>
-🔍 Database analysis • Customer segmentation • Business queries  
-➡️ **Repo:** [Click Here](REPO_LINK)
 
 ---
 
@@ -76,21 +68,18 @@
   </a>
 </p>
 📊 Revenue insights • Visual dashboards • KPIs  
-➡️ **Repo:** [Click Here](REPO_LINK)
+➡️ **Repo:**(https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi))
 
 ---
 
-### 🤖 **Machine Learning Model Experiments**
+### 🎵 **Music Store Management – SQL**
 <p align="left">
   <a href="REPO_LINK">
     <img src="PROJECT_IMAGE_LINK" width="350" />
   </a>
 </p>
-📈 Regression • Classification • Feature Engineering • EDA  
-➡️ **Repo:** [Click Here](REPO_LINK) 
-
----
-
+🔍 Database analysis • Customer segmentation • Business queries  
+➡️ **Repo:** [Click Here](REPO_LINK)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=github_dark&hide_border=false)<br/>
