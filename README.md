@@ -19,6 +19,30 @@
 
 ---
 
+## 🚀 Featured Projects
+
+
+---
+
+### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI)
+
+---
+
+### 🎵 **Music Store Management – SQL**
+<p align="left">
+  <a href="REPO_LINK">
+    <img src="PROJECT_IMAGE_LINK" width="350" />
+  </a>
+</p>
+🔍 Database analysis • Customer segmentation • Business queries  
+➡️ **Repo:** [Click Here](REPO_LINK)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ## 🌐 **Socials**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imrsk18/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-kadam18/)  
@@ -26,7 +50,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rskofficial0018@gmail.com)
 
 ---
-
 # 💻 **Tech Stack**
 
 ### 🔹 **Programming & ML**
@@ -53,38 +76,6 @@
 ### 🔹 **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-
----
-
-### 🎬 **IMDb Movie Sales Analysis – Power BI**
-<p align="left">
-  <a href="REPO_LINK">
-    <img src="PROJECT_IMAGE_LINK" width="350" />
-  </a>
-</p>
-📊 Revenue insights • Visual dashboards • KPIs  
-➡️ **Repo:**(https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi))
-
----
-
-### 🎵 **Music Store Management – SQL**
-<p align="left">
-  <a href="REPO_LINK">
-    <img src="PROJECT_IMAGE_LINK" width="350" />
-  </a>
-</p>
-🔍 Database analysis • Customer segmentation • Business queries  
-➡️ **Repo:** [Click Here](REPO_LINK)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ---
 
