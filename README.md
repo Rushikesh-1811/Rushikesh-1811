@@ -28,6 +28,16 @@
 
 ---
 
+### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI)
+<p align="left">
+  <a href="https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI">
+    <img src="PROJECT_IMAGE_LINK" width="350" />
+  </a>
+</p>
+
+📊 Revenue insights • Visual dashboards • KPIs
+
+---
 ### 🎵 **Music Store Management – SQL**
 <p align="left">
   <a href="REPO_LINK">
