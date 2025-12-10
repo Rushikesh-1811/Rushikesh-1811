@@ -18,34 +18,38 @@
 - ⚡ **Fun fact:** I love breaking models just to rebuild them better!  
 
 ---
-
 ## 🚀 Featured Projects
 
-
 ---
 
-### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI)
-
----
-
-### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI)
+### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi)
 <p align="left">
-  <a href="https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-PowerBI">
-    <img src="PROJECT_IMAGE_LINK" width="350" />
+  <a href="https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi">
   </a>
 </p>
-
 📊 Revenue insights • Visual dashboards • KPIs
 
 ---
-### 🎵 **Music Store Management – SQL**
+
+### 🌾 [Agrimarket Price Analysis – EDA](https://github.com/Rushikesh-1811/Agrimarket-Price-Analysis-Using-EDA)
 <p align="left">
-  <a href="REPO_LINK">
-    <img src="PROJECT_IMAGE_LINK" width="350" />
+  <a href="https://github.com/Rushikesh-1811/Agrimarket-Price-Analysis-Using-EDA">
   </a>
 </p>
-🔍 Database analysis • Customer segmentation • Business queries  
-➡️ **Repo:** [Click Here](REPO_LINK)
+🔍 Web scraping • Data cleaning • Trend analysis • Visualization
+
+---
+
+### 🎵 [Music Store Analysis – SQL](https://github.com/Rushikesh-1811/Music-Store-SQL-Analysis)
+<p align="left">
+  <a href="https://github.com/Rushikesh-1811/Music-Store-SQL-Analysis">
+  </a>
+</p>
+🛢️ SQL queries • Customer insights • Revenue analytics
+
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rushikesh-1811&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh-1811&theme=github_dark&hide_border=false)<br/>
