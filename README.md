@@ -2,7 +2,7 @@
 ---
 
 # 💫 Hi 👋, I'm **Rushikesh Kadam**
-**A passionate Data Scientist | ML & AI Developer | SQL & Power BI Enthusiast from India**
+**A passionate Data Scientist | AI (ML & DL )Developer | SQL & Power BI Enthusiast from India**
 
 📩 Email Me → **rskofficial0018@gmail.com**
 
@@ -21,7 +21,17 @@
 ## 🚀 Featured Projects
 
 ---
+### 🍷 [Wine Quality Prediction using Machine Learning](https://github.com/Rushikesh-1811/Wine-quality-prediction-ml)
+<p align="left">
+  <a href="https://github.com/Rushikesh-1811/Wine-quality-prediction-ml">
+  </a>
+</p>
 
+- Built classification models to predict wine quality categories  
+- Performed EDA, preprocessing, model comparison, and deployment  
+- Deployed interactive Streamlit dashboard for real-time predictions
+
+---
 ### 🎬 [IMDb Movie Sales Analysis – Power BI](https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi)
 <p align="left">
   <a href="https://github.com/Rushikesh-1811/IMDb-Movie-Sales-Analysis-Using-Power-Bi">
